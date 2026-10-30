@@ -1,0 +1,12 @@
+
+.venv/
+.idea/
+__pycache__/
+*.pyc
+uploads/
+sample/
+myntradataset/
+test.py
+test_embedings.py
+test_embeddings.py
+main.py
